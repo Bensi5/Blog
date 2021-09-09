@@ -1,0 +1,27 @@
+#welcome{
+background-color: red;
+text-shadow: yellow;
+font-family: sans-serif;
+color: white;
+}
+#Blog1{
+     background:linear-gradient(#f105d2 0%, #06eff7 100%);
+     color: white;
+}
+
+#Blog2{
+     background:linear-gradient(#08ff29 0%, #f7df06 100%);
+     color: black;
+}
+#Blog3{
+     background:linear-gradient(#ff0808 0%, #f7b706 100%);
+     color: black;
+}
+#Blog4{
+     background:linear-gradient(#9d3ff5 0%, #0a06f7 100%);
+     color: white;
+}
+#Blog5{
+     background:linear-gradient(#ff086f 0%, #06eff7 100%);
+     color: white;
+}
